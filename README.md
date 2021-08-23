@@ -1,7 +1,7 @@
 ### Hello World! 👋
 #### I'm a Full Stack Web Developer
 
-I became a programmer after being a soccer referee 👨‍⚖️ and a student in the Argentine Military Aviation School 🧑‍✈️ where i learned the importance of teamwork, discipline and commitment 💪
+I became a programmer after being a soccer referee 👨‍⚖️ and a student in the Argentine Military Aviation School 🧑‍✈️ where i learned the value of teamwork, discipline and commitment 💪
 
 Skills
 
